@@ -1,4 +1,9 @@
 # w
+# front end-  npm create vite@latest
+# bakend - npm init -1
+# npm i mongoose .env cors express
+# for running
+# npm run dev(if not working)  - npm i
 # Mouse Tracker - https://github.com/akshayachigullapally/23071A0573_B
 # Dictionary App - https://github.com/Abhishek-Dhamshetty/23071A0576_E
 # Card Game - https://github.com/sairiteshdomakuntla/23071A0577-F
